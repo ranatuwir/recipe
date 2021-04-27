@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Recipe Polariod
+
+Created a recipe app using the EDAMAM Recipe Search API which displays recipes in the form of a polaroid.
+Live Demo!
+
+Utilised ReactJs and CSS
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
